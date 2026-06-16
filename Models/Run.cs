@@ -1,4 +1,4 @@
-namespace RunningTracker.Models
+namespace RunningData.Models
 {
     public class Run
     {
