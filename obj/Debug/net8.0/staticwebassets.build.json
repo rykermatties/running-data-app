@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7+W0ANtspL7+f/4dw4odmWq8u6OZBnF+Bx3NKpZwP2I=",
+  "Source": "running-data-app",
+  "BasePath": "_content/running-data-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
