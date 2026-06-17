@@ -3,6 +3,7 @@ namespace RunningData.Models
     public class Run
     {
         public int Id { get; set; }
+        public int UserId { get; set; }
         public long StravaActivityId { get; set; }
         public DateTime StartDate { get; set; }
         public float DistanceMeters { get; set; }
